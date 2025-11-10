@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves learning, bui
 ---
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **[Your current focus, e.g., React, Python, or Machine Learning]**
+- 🌱 I’m currently learning **[Web Development( Front End )]**
 - 💼 I’m working on **[Your current project or area of interest]**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **[topics you’re good at or enjoy discussing]**
@@ -32,8 +32,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves learning, bui
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
+E-Mail: Temple359@gmail.com
+Twitter: @GTemple359
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
 
 ---
